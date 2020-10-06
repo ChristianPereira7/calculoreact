@@ -8,7 +8,7 @@ const Title = styled.h1`
     font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
     color: #ffffff;
-    margin-bottom:50px;
+    margin-bottom:55px;
 `; 
 
 const Input = styled.input`
