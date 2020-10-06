@@ -8,7 +8,7 @@ const Title = styled.h1`
     font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
     color: #ffffff;
-    margin-bottom:100px;
+    margin-bottom:50px;
 `; 
 
 const Input = styled.input`
@@ -22,7 +22,7 @@ const Input = styled.input`
 const ContainerDiv = styled.div`
     color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 25px;
+    font-size: 27px;
     text-align: center;
 `;
 
